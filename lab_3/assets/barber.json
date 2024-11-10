@@ -1,0 +1,85 @@
+{
+    "banner": {
+      "image": "https://img.freepik.com/free-photo/young-female-holding-sale-writing-through-torn-paper-hole-wall_140725-105042.jpg?t=st=1728371714~exp=1728375314~hmac=46c8d3f6909541025151cbd48947207f8811d189a385b316e18b829b42fee2df&w=1380",
+      "button_title": "Booking now"
+    },
+    "nearest_barbershop": [
+      {
+        "name": "Alana Barbershop - Haircut massage & Spa",
+        "location_with_distance": "Banguntapan (5 km)",
+        "image":  "Images/firstImage.png",
+        "review_rate": 4.5
+      },
+      {
+        "name": "Alana Barbershop - Haircut massage & Spa",
+        "location_with_distance": "Area 1 (1.1 km)",
+        "image": "Images/secondImage.png",
+        "review_rate": 4.1
+      },
+      {
+        "name": "Barberking - Haircut styling & massage",
+        "location_with_distance": "Jalan Kaliurang (8 km)",
+        "image": "Images/lastImage.png",
+        "review_rate": 5.0
+      },
+      {
+        "name": "Alana Barbershop - Haircut massage & Spa",
+        "location_with_distance": "Banguntapan (5 km)",
+        "image":  "Images/firstImage.png",
+        "review_rate": 4.5
+      },
+      {
+        "name": "Alana Barbershop - Haircut massage & Spa",
+        "location_with_distance": "Area 1 (1.1 km)",
+        "image": "Images/secondImage.png",
+        "review_rate": 4.1
+      },
+      {
+        "name": "Barberking - Haircut styling & massage",
+        "location_with_distance": "Jalan Kaliurang (8 km)",
+        "image": "Images/lastImage.png",
+        "review_rate": 5.0
+      }
+    ],
+    "most_recommended": [
+      {
+        "name": "Master piece Barbershop - Haircut styling",
+        "location_with_distance": "Joga Expo Centre (2 km)",
+        "image": "Images/adouazi.png",
+        "review_rate": 5.0
+      },
+      {
+        "name": "Master piece Barbershop - Haircut styling",
+        "location_with_distance": "Joga Expo Centre (2 km)",
+        "image": "Images/adouazi.png",
+        "review_rate": 5.0
+      },
+      {
+        "name": "Master piece Barbershop - Haircut styling",
+        "location_with_distance": "Joga Expo Centre (2 km)",
+        "image": "Images/adouazi.png",
+        "review_rate": 5.0
+      }
+    ],
+    "list": 
+    [
+      {
+        "name": "Varcity Barbershop Jogja ex The Varcher",
+        "location_with_distance": "Condongcatur (10 km)",
+        "image": "Images/lastone.png",
+        "review_rate": 4.5
+      },
+      {
+        "name": "Twinsky Monkey Barber & Men Stuff",
+        "location_with_distance": "JI Taman Siswa (8 km)",
+        "image": "Images/lasttho.png",
+        "review_rate": 5.0
+      },
+      {
+        "name": "Barberman - Haircut styling & massage",
+        "location_with_distance": "J-Walk Centre (17 km)",
+        "image": "Images/lastImage.png",
+        "review_rate": 4.5
+      }
+    ]
+  }
